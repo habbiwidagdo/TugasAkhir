@@ -1,0 +1,49 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="Wz_W4Sv-uGwSNZY-hPBh">
+    <mxGraphModel dx="1398" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CkXW5B1azifcfN7LSs2L-7" edge="1" parent="1" source="CkXW5B1azifcfN7LSs2L-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CkXW5B1azifcfN7LSs2L-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CkXW5B1azifcfN7LSs2L-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
+          <mxGeometry height="60" width="100" x="375" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CkXW5B1azifcfN7LSs2L-8" edge="1" parent="1" source="CkXW5B1azifcfN7LSs2L-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CkXW5B1azifcfN7LSs2L-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CkXW5B1azifcfN7LSs2L-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Pencarian Dataset" vertex="1">
+          <mxGeometry height="100" width="100" x="375" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CkXW5B1azifcfN7LSs2L-9" edge="1" parent="1" source="CkXW5B1azifcfN7LSs2L-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CkXW5B1azifcfN7LSs2L-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CkXW5B1azifcfN7LSs2L-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Pra-pemrosesan Data" vertex="1">
+          <mxGeometry height="100" width="100" x="375" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="CkXW5B1azifcfN7LSs2L-10" edge="1" parent="1" source="CkXW5B1azifcfN7LSs2L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CkXW5B1azifcfN7LSs2L-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CkXW5B1azifcfN7LSs2L-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Pembagian Data" vertex="1">
+          <mxGeometry height="100" width="100" x="375" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="CkXW5B1azifcfN7LSs2L-11" edge="1" parent="1" source="CkXW5B1azifcfN7LSs2L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CkXW5B1azifcfN7LSs2L-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CkXW5B1azifcfN7LSs2L-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Penanganan Ketidakseimbangan Kelas" vertex="1">
+          <mxGeometry height="100" width="100" x="375" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="CkXW5B1azifcfN7LSs2L-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Pemodelan" vertex="1">
+          <mxGeometry height="100" width="100" x="375" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="CkXW5B1azifcfN7LSs2L-12" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
+          <mxGeometry height="60" width="100" x="375" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="CkXW5B1azifcfN7LSs2L-13" edge="1" parent="1" source="CkXW5B1azifcfN7LSs2L-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="CkXW5B1azifcfN7LSs2L-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
